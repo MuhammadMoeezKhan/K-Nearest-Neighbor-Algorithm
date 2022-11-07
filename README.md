@@ -4,6 +4,8 @@
 
 #### While we will be working with the k-Nearest Neighbor algorithm in various ways, we will also implement methods for data pre-processing, debugging, model evaluation, normalization, standardization, and visualization to create, evaluate, and optimize a data mining algorithm as applied to a real-world dataset.
 
+<br>
+
 Project Utilizes:
 - Pandas
   - Series/Dataframes
@@ -24,6 +26,7 @@ Project Utilizes:
 - Python kNN Algorithim
   - sklearn.neighbors module
 
+<br>
 
 Project Features:
 - Project delves into several different ways to implement the 1-NN Algorithim
